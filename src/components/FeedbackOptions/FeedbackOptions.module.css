@@ -1,0 +1,10 @@
+.btn_container{
+    margin-left: 10px;
+    display: flex ;
+    gap: 15px
+
+}
+.btn{
+width:60px;
+padding: 5px;
+}
